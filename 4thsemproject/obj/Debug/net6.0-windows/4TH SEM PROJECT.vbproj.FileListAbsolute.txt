@@ -1,0 +1,43 @@
+C:\Users\Admin\Desktop\My Project\4thsemproject\4thsemproject\bin\Debug\net6.0-windows\4TH SEM PROJECT.exe
+C:\Users\Admin\Desktop\My Project\4thsemproject\4thsemproject\obj\Debug\net6.0-windows\4TH SEM PROJECT.vbproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\My Project\4thsemproject\4thsemproject\obj\Debug\net6.0-windows\_4thsemproject.AdminLoginForm.resources
+C:\Users\Admin\Desktop\My Project\4thsemproject\4thsemproject\obj\Debug\net6.0-windows\_4thsemproject.Form1.resources
+C:\Users\Admin\Desktop\My Project\4thsemproject\4thsemproject\obj\Debug\net6.0-windows\_4thsemproject.Resources.resources
+C:\Users\Admin\Desktop\My Project\4thsemproject\4thsemproject\obj\Debug\net6.0-windows\4TH SEM PROJECT.vbproj.GenerateResource.cache
+C:\Users\Admin\Desktop\My Project\4thsemproject\4thsemproject\obj\Debug\net6.0-windows\4TH SEM PROJECT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\My Project\4thsemproject\4thsemproject\obj\Debug\net6.0-windows\4TH SEM PROJECT.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\My Project\4thsemproject\4thsemproject\obj\Debug\net6.0-windows\4TH SEM PROJECT.AssemblyInfo.vb
+C:\Users\Admin\Desktop\My Project\4thsemproject\4thsemproject\obj\Debug\net6.0-windows\4TH SEM PROJECT.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\My Project\4thsemproject\4thsemproject\obj\Debug\net6.0-windows\4TH SEM PROJECT.vbproj.CopyComplete
+C:\Users\Admin\Desktop\My Project\4thsemproject\4thsemproject\obj\Debug\net6.0-windows\4TH SEM PROJECT.dll
+C:\Users\Admin\Desktop\My Project\4thsemproject\4thsemproject\obj\Debug\net6.0-windows\refint\4TH SEM PROJECT.dll
+C:\Users\Admin\Desktop\My Project\4thsemproject\4thsemproject\obj\Debug\net6.0-windows\4TH SEM PROJECT.pdb
+C:\Users\Admin\Desktop\My Project\4thsemproject\4thsemproject\bin\Debug\net6.0-windows\4TH SEM PROJECT.deps.json
+C:\Users\Admin\Desktop\My Project\4thsemproject\4thsemproject\bin\Debug\net6.0-windows\4TH SEM PROJECT.runtimeconfig.json
+C:\Users\Admin\Desktop\My Project\4thsemproject\4thsemproject\bin\Debug\net6.0-windows\4TH SEM PROJECT.dll
+C:\Users\Admin\Desktop\My Project\4thsemproject\4thsemproject\bin\Debug\net6.0-windows\4TH SEM PROJECT.pdb
+C:\Users\Admin\Desktop\My Project\4thsemproject\4thsemproject\obj\Debug\net6.0-windows\4TH SEM PROJECT.genruntimeconfig.cache
+C:\Users\Admin\Desktop\My Project\4thsemproject\4thsemproject\obj\Debug\net6.0-windows\ref\4TH SEM PROJECT.dll
+C:\Users\Admin\Desktop\My Project\4thsemproject\4thsemproject\obj\Debug\net6.0-windows\_4thsemproject.StudentRegistrationForm.resources
+C:\Users\Admin\Desktop\My Project\4thsemproject\4thsemproject\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\My Project\4thsemproject\4thsemproject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Desktop\My Project\4thsemproject\4thsemproject\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Desktop\My Project\4thsemproject\4thsemproject\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Desktop\My Project\4thsemproject\4thsemproject\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\My Project\4thsemproject\4thsemproject\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\My Project\4thsemproject\4thsemproject\obj\Debug\net6.0-windows\_4thsemproject.StudentLoginForm.resources
+C:\Users\Admin\Desktop\My Project\4thsemproject\4thsemproject\obj\Debug\net6.0-windows\_4thsemproject.AdminDashboard.resources
+C:\Users\Admin\Desktop\My Project\4thsemproject\4thsemproject\obj\Debug\net6.0-windows\_4thsemproject.AdminCourse.resources
+C:\Users\Admin\Desktop\My Project\4thsemproject\4thsemproject\obj\Debug\net6.0-windows\_4thsemproject.AdminMarks.resources
+C:\Users\Admin\Desktop\My Project\4thsemproject\4thsemproject\obj\Debug\net6.0-windows\_4thsemproject.AdminProfile.resources
+C:\Users\Admin\Desktop\My Project\4thsemproject\4thsemproject\obj\Debug\net6.0-windows\_4thsemproject.AdminAttendance.resources
+C:\Users\Admin\Desktop\My Project\4thsemproject\4thsemproject\obj\Debug\net6.0-windows\_4thsemproject.AdminPayment.resources
+C:\Users\Admin\Desktop\My Project\4thsemproject\4thsemproject\obj\Debug\net6.0-windows\_4thsemproject.UpdateCourse.resources
+C:\Users\Admin\Desktop\My Project\4thsemproject\4thsemproject\obj\Debug\net6.0-windows\_4thsemproject.ViewCourse.resources
+C:\Users\Admin\Desktop\My Project\4thsemproject\4thsemproject\obj\Debug\net6.0-windows\_4thsemproject.ViewProfile.resources
+C:\Users\Admin\Desktop\My Project\4thsemproject\4thsemproject\obj\Debug\net6.0-windows\_4thsemproject.UpdateProfile.resources
+C:\Users\Admin\Desktop\My Project\4thsemproject\4thsemproject\obj\Debug\net6.0-windows\_4thsemproject.UpdateMarks.resources
+C:\Users\Admin\Desktop\My Project\4thsemproject\4thsemproject\obj\Debug\net6.0-windows\_4thsemproject.ViewMarks.resources
+C:\Users\Admin\Desktop\My Project\4thsemproject\4thsemproject\obj\Debug\net6.0-windows\_4thsemproject.UpdateAttendance.resources
+C:\Users\Admin\Desktop\My Project\4thsemproject\4thsemproject\obj\Debug\net6.0-windows\_4thsemproject.ViewAttendance.resources
+C:\Users\Admin\Desktop\My Project\4thsemproject\4thsemproject\obj\Debug\net6.0-windows\_4thsemproject.viewFees.resources
